@@ -16,7 +16,8 @@ public class ProyectoGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Version1.0");
+        
+        System.out.print("Version 1.1");
     }
     
 }
